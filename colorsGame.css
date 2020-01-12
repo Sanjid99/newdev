@@ -1,0 +1,91 @@
+#body {
+	background-color: black;
+}
+
+
+#newColorsLink {
+
+	position: absolute;
+	left: 25%;
+
+}
+
+#easyHardLink {
+
+	position: absolute;
+	left: 65%;
+}
+
+#rgbText {
+	text-align: center;
+	margin-top: 10px;
+	color: white;
+}
+
+#theGameOf {
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	padding-top: 10px;
+	color: white;
+}
+
+#guessing {
+	text-align: center;
+	margin-top: 10px;
+	color: white;
+}
+
+.square {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 20px;
+}
+#newColorsLinkText{
+
+	color: black;
+	font-weight: bold;
+}
+
+#easyHardLinkText{
+
+	color: black;
+	font-weight: bold;
+}
+
+#pageTop {
+	height: 150px;
+	heigh
+}
+
+table {
+
+margin: auto auto auto auto;
+
+
+
+}
+
+td {
+
+	width: 180px;
+	height: 180px;
+}
+
+
+td{
+
+	display: inline-block;
+	border-left : 1px solid black;
+	border-right : 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-radius: 20px;
+	margin: 5px 5px 5px 5px;
+	background-color: white;
+
+
+}
+
+
